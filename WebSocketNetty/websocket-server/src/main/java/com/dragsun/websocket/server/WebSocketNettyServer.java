@@ -2,7 +2,7 @@ package com.dragsun.websocket.server;
 
 
 import com.dragsun.websocket.handler.websocket.WebSocketHandler;
-import com.dragsun.websocket.ssl.SslContextFactory;
+import com.dragsun.websocket.ssl. SslContextFactory;
 import com.dragsun.websocket.utils.LogUtils;
 import com.dragsun.websocket.handler.WebSocketChannelHandlerFactory;
 import io.netty.bootstrap.ServerBootstrap;
